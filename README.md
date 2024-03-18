@@ -184,3 +184,5 @@ There are a plenty of work to be done. All contributions are welcome :).
 
 ## License
 See [LICENSE.md](LICENSE.md) for more information
+
+https://discourse.mozilla.org/t/deepspeech-training-problems-for-brazilian-portuguese/51300/8
